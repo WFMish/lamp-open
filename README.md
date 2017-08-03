@@ -1,0 +1,2 @@
+# lamp-open
+laws
